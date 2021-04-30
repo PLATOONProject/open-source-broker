@@ -2,6 +2,8 @@
 
 This is an implementation of an International Data Spaces (IDS) Metadata Broker, which is a registry for IDS Connector self-description documents. It is currently under development and intends to act as a central metadata registry for members of Platoon project. Work on this repository closely aligns with the IDS Handshake Document, which describes the concepts of communication on the IDS in textual form.
 
+The Open-source Data Broker has been funded by the PLATOON H2020 project funded by the EU commission.
+
 ## Purpose
 
 The goal of this implementation is to show how the concepts introduced in the Handshake Document can be turned into an actual application. It, therefore, demonstrates the usage of the IDS Information Model for core communication tasks. More specifically, it shows:
