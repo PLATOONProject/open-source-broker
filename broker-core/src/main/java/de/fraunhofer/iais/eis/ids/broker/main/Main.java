@@ -1,3 +1,16 @@
+/*
+ * Copyright (c) 2021 Fraunhofer IAIS.
+ * All rights reserved. This program and the accompanying materials
+ * are made available under the terms of the
+ * Apache License Version 2.0 which accompanies
+ * this distribution, and is available at
+ * https://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Contributors:
+ *
+ * Hantong Liu IAIS
+ **Initially developed in the context of PLATOON EU H2020 project
+ */
 package de.fraunhofer.iais.eis.ids.broker.main;
 
 
